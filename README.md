@@ -5,7 +5,7 @@ A REST API service that identifies and tracks customer identity across multiple 
 ## Live Endpoint
 
 ```
-POST https://YOUR_APP.onrender.com/identify
+POST https://bitespeed-identity-2a6h.onrender.com/identify
 ```
 
 ## Tech Stack
